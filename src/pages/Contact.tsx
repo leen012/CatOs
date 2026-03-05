@@ -20,7 +20,7 @@ const Contact = ({ onClose }: { onClose: () => void }) => {
                 <div className="p-4 text-white overflow-y-auto">
                      <h1 className='font-roboto ml-55 mt-2 text-3xl'>Contact me</h1>
                      <div className='flex mt-2 -ml-23 flex-col'>
-                     <p className='font-roboto ml-50 mt-5 '> email : azahradum@gmail.com  </p>
+                     <p className='font-roboto ml-50 mt-5 '> email : exapmle@gmail.com  </p>
                      <p className='font-roboto ml-50 mt-5 '> Phone Number : +92-xxxx-xxxx </p>
                     
                 </div>
@@ -28,7 +28,7 @@ const Contact = ({ onClose }: { onClose: () => void }) => {
                         <div className='flex flex-row gap-7 text-2xl text-center justify-center items-center mt-8'>
 
   <a 
-    href="https://www.instagram.com/4leezaa_/" 
+    href="https://www.instagram.com/" 
     target="_blank" 
     rel="noopener noreferrer"
   >
@@ -36,7 +36,7 @@ const Contact = ({ onClose }: { onClose: () => void }) => {
   </a>
 
   <a 
-    href="https://github.com/aleezazahra?tab=repositories" 
+    href="https://github.com" 
     target="_blank" 
     rel="noopener noreferrer"
   >
@@ -44,7 +44,7 @@ const Contact = ({ onClose }: { onClose: () => void }) => {
   </a>
 
   <a 
-    href="https://www.youtube.com/@aleeza011" 
+    href="https://www.youtube.com" 
     target="_blank" 
     rel="noopener noreferrer"
   >
