@@ -20,7 +20,7 @@ const About = ({ onClose }: { onClose: () => void }) => {
           
                 <div className="p-4 text-white overflow-y-auto">
                      <h1 className='font-roboto ml-55 mt-2 text-2xl'>Hey , It's Azura </h1>
-                     <p className='font-roboto ml-50 mt-5 '>I am 17y/o teen. I like to watch movies ,anime ,volunteer and code sometimes.My major interest are ML/AI and ig web devlopment.</p>
+                     <p className='font-roboto ml-50 mt-5 '>I am 15y/o teenage boy . I like to watch movies ,anime and code sometimes.My major interest are ML/AI and ig web devlopment.</p>
                      <img className='-ml-8 -mt-30' src={Image}></img>
                     <div className='flex flex-row ml-50 -mt-10 gap-6 text-3xl'>
                         <SiTypescript className='text-blue-600'></SiTypescript>
