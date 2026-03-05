@@ -23,7 +23,7 @@ const Home = () => {
   const [showAbout, setShowAbout] = useState(false);
 
   const API_key = import.meta.env.VITE_WEATHER_API_KEY;
-  const city = "Delhi";
+  const city = "New York";
   const [time, setTime] = useState(
     new Date().toLocaleTimeString([], {
       hour: '2-digit',
