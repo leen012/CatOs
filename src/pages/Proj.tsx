@@ -9,17 +9,17 @@ const Projects = ({ onClose }: { onClose: () => void }) => {
         {
             title: "Pomodoro Timer",
             tags: ["React", "Tailwind", "Typescript"],
-            repo: "https://github.com/aleezazahra/Pomodoro"
+            repo: "https://github.com"
         },
         {
             title: "Web OS",
             tags: ["TailwindCss", "TypeScript", "React"],
-            repo: "https://github.com/aleezazahra/CatOs"
+            repo: "https://github.com/"
         },
         {
             title: "Hyprland Config",
             tags: ["Lua", "Bash", "Wayland"],
-            repo: "https://github.com/aleezazahra/hyprland-fedora"
+            repo: "https://github.com/
         }
     ];
 
